@@ -14,5 +14,6 @@ This project demonstrates an end-to-end MLOps workflow using Python,FastAPI for 
 - **FastAPI**: Serve the trained model through an API.
 - **Dockerized**: Fully containerized setup for easy deployment.
 - **CI/CD**: GitHub Actions pipeline to install dependencies, run tests, and execute training.
+- **DVC** DVC for data, model versioning and to store remotely via Google Drive.
 - **Custom Model**: Trains a `RandomForestClassifier` on structured data.
 
